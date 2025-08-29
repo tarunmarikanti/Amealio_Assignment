@@ -28,7 +28,7 @@ This project contains automated tests for IMDb login and UI interactions using S
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/Amealio_Assignment.git
+git clone https://github.com/tarunmarikanti/Amealio_Assignment.git
 cd Amealio_Assignment
 
 
@@ -65,3 +65,4 @@ Amealio_Assignment/
 ├── utils/ # Helper utilities like screenshot capture
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
+
